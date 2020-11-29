@@ -21,6 +21,6 @@ Material:
     m_TexEnvs: []
     m_Floats: []
     m_Colors:
-    - Color_3C0C43A8: {r: 0, g: 3.979057, b: 7.999999, a: 0}
-    - Color_B5C32EE: {r: 0, g: 0.21176471, b: 1.2078432, a: 0}
+    - Color_3C0C43A8: {r: 0, g: 23.843138, b: 47.937256, a: 0}
+    - Color_B5C32EE: {r: 0, g: 3.642501, b: 19.32549, a: 0}
   m_BuildTextureStacks: []
